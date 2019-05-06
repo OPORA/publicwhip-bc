@@ -21,3 +21,16 @@ div.img {
   background-position: top center;
   margin: 35px 0;
 }
+header{
+  background: image('fon_home.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 600px;
+  /*background-color: rgba(40,40,40,0.6);*/
+  color:#fff;
+  margin-bottom: 75px;
+  box-shadow:0 0 0 508px rgba(0, 0, 0, 0.33) inset;
+
+}
